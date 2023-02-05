@@ -1,0 +1,179 @@
+isaac:
+	upper
+	lower
+	mega satan
+	dilirium
+	boss rush
+	hush
+	greed
+	beast
+magdalene:
+	upper
+	lower
+	mega satan
+	dilirium
+	mother
+	boss rush
+	hush
+	greed
+cain:
+	mega satan
+	dilirium
+	greed
+judas:
+	mega satan
+	dilirium
+	greed
+	beast
+???:
+	mega satan
+	boss rush
+	greed
+	beast
+eve:
+	mega satan
+	delirium
+	mother
+	greed
+	beast
+samson:
+	upper
+	lower
+	mega satan
+	dilirium
+	hush
+	greed
+	beast
+azazel
+lazarus:
+	mother
+	greed
+	beast
+lilith:
+	upper
+	mega satan
+	dilirium
+	greed
+	
+keeper:
+	lower
+	mega satan
+	delerium
+	mother
+	beast
+apollyon:
+	greed
+the forgotten
+bethany:
+	mega satan
+	mother
+	boss rush
+	beast
+	greed
+jacob and esau:
+	mega satan
+	delirium
+	beast
+
+
+tainted isaac:
+	mega satan
+	delirium
+	greed
+tainted magdalene
+tainted cain:
+	upper
+	lower
+	delirium
+	mother
+	boss rush
+	hush
+	beast
+tainted judas:
+	mega satan
+	greed
+	beast
+tainted ???:
+	isaac
+	mega satan
+	delirium
+	greed
+	beast
+tainted eve:
+	delirium
+	mother
+	greed
+	beast
+tainted samson
+tainted azazel:
+	mega satan
+	greed
+	beast
+tainted lazarus
+	!greed
+tainted eden
+tainted lilith:
+	mega satan
+	delirium
+	mother
+	greed
+	beast
+tainted keeper:
+	upper
+	lower
+	hush
+	mega satan
+	delirium
+	mother
+tainted apollyon:
+	upper
+	delirium
+	mother
+	greed
+	beast
+tainted forgotten:
+	upper
+	delirium
+	mother
+	greed
+	beast
+tainted bethany:
+	upper
+	mega satan
+	delirium
+	hush
+	mother
+	greed
+tainted jacob:
+	chest
+	boss rush
+	mother
+	greed
+	beast
+
+CLEARED:
+eden
+the lost
+tainted lost
+
+
+
+12 untainted untouched characters
+12 tainted untouched characters
+
+??? 2
+eve 2
+lazarus 1
+
+tainted isaac 1
+tainted eve 2
+tainted keeper 3
+tainted bethany 2
+tainted forgotten 2
+
+untouched are 3 each
+
+x minimum runs for all untainted completion marks,
+y minimum runs for all tainted completion marks
+x+y-1 r keys necessary to get dead god
+ceil(x+y/2)-1 r keys necessary to get dead god with two players
